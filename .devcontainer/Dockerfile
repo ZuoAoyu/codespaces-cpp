@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/devcontainers/cpp:0-ubuntu-22.04
+FROM mcr.microsoft.com/devcontainers/cpp:dev-debian12
 
 # [Optional] Uncomment this section to install additional packages.
 # RUN apt-get update && export DEBIAN_FRONTEND=noninteractive \
